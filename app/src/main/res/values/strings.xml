@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DialogsExample</string>
+
+    <string name="show_dialog_label">Show Dialog!</string>
+    <string name="action_settings">Settings</string>
+    <string name="dialog_message">Are you sure that you want to delete? </string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="show_multi_dialog_label">Show Multiple Items Dialog!</string>
+    <string name="pick_program">Pick one of the programs </string>
+
+    <array name="programs_array">
+        <item name="css">CSS</item>
+        <item name="ces">CES</item>
+        <item name="it">IT</item>
+    </array>
+
+    <string name="show_date_picker_label">Show Date Picker Dialog!</string>
+
+</resources>
